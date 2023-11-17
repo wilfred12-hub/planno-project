@@ -315,6 +315,7 @@ h3 {
 
 .progress{
   display: flex;
+margin: 3rem;
 }
 .progress .progress-orange{
   background-color: #fe8d28;
@@ -360,4 +361,5 @@ h3 {
 
 .music .move{
   width:160px ;
+  align-items: center;
 }
